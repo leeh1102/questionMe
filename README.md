@@ -21,6 +21,9 @@ npm run dev
 
 **Heather**
 GitHub: https://github.com/leeh1102
+
 LinkedIn: https://www.linkedin.com/in/heatherhjlee/
+
 Email: leeh1102@gmail.com
+
 All rights reserved to the owner, leeh1102
